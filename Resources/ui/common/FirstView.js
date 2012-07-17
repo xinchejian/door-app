@@ -57,9 +57,9 @@ function FirstView() {
 				left: 7+(30*(tl-1))+'%',
 				top: 6+(20*tt)+'%',
 				height: '15%',
-				backgroundImage: 'images/button.png',
-				backgroundFocusedImage: 'images/button-down.png',
-				backgroundSelectedImage: 'images/button-down.png'
+				backgroundImage: '/button.png',
+				backgroundFocusedImage: '/button-down.png',
+				backgroundSelectedImage: '/button-down.png'
 			});
 			button.addEventListener("click", function(){ 
 				Ti.App.code += this.title;
@@ -81,15 +81,15 @@ function FirstView() {
 		break;
 		default:
 			var button = Ti.UI.createButton({
-				title: i,
+				title: ""+i+"",
 				//backgroundImage:"images/arcade-button.png",
 				width: '25%',
 				left: 7+(30*(tl-1))+'%',
 				top: 6+(20*tt)+'%',
 				height: '15%',
-				backgroundImage: 'images/button.png',
-				backgroundFocusedImage: 'images/button-down.png',
-				backgroundSelectedImage: 'images/button-down.png'
+				backgroundImage: '/button.png',
+				backgroundFocusedImage: '/button-down.png',
+				backgroundSelectedImage: '/button-down.png'
 			});	
 			button.addEventListener("click", function(){ 
 				Ti.App.code += this.title;
