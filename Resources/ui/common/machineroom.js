@@ -1,6 +1,6 @@
 function machineroom(code) {
  
- 	var url = "http://door.xinchejian.com:8080/lock?pin="+code;
+ 	var url = "http://door.xinchejian.com/lock?pin="+code;
 	 var client = Ti.Network.createHTTPClient({
 	     // function called when the response data is available
 	 onload : function(e) {

@@ -1,21 +1,36 @@
 Logfile initialized
 [INFO] logfile = /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build.log
-[DEBUG] /Users/nihaopaul/Library/Application Support/Titanium/mobilesdk/osx/2.1.0.GA/android/builder.py distribute XinCheJian Door /Applications/android-sdk-macosx /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door com.xinchejian.door /Users/nihaopaul/Documents/Titanium_Studio_Workspace/distribution/android bollox XinCheJian /Users/nihaopaul/Documents/Titanium_Studio_Workspace/distribution 2
+[DEBUG] /Users/nihaopaul/Library/Application Support/Titanium/mobilesdk/osx/2.1.0.GA/android/builder.py distribute XinCheJian Door /Applications/android-sdk-macosx /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door com.xinchejian.door /Users/nihaopaul/Documents/Titanium_Studio_Workspace/distribution/android 18811265 XinCheJian /Users/nihaopaul/Documents/Titanium_Studio_Workspace/distribution 2
 [INFO] Titanium SDK version: 2.1.0 (06/28/12 12:16 6e3cab6)
 [INFO] Copying CommonJS modules...
 [INFO] Copying project resources..
+[INFO] Detected change in tiapp.xml, or assets deleted. Forcing full re-build...
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/android/appicon.png => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/appicon.png
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/android/button-down.png => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/button-down.png
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/android/button.png => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/button.png
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/app.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/app.js
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/KS_nav_ui.png => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/KS_nav_ui.png
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/KS_nav_views.png => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/KS_nav_views.png
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/ui/common/FirstView.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/ui/common/FirstView.js
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/ui/common/machineroom.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/ui/common/machineroom.js
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/ui/common/passport.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/ui/common/passport.js
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/ui/handheld/android/ApplicationWindow.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/ui/handheld/android/ApplicationWindow.js
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/ui/handheld/ApplicationWindow.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/ui/handheld/ApplicationWindow.js
+[TRACE] COPYING CREATED FILE: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/Resources/ui/tablet/ApplicationWindow.js => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/ui/tablet/ApplicationWindow.js
 [TRACE] Generating Java Classes
 [DEBUG] Processing Android resource drawables
+[DEBUG] app stylesheet => /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/ApplicationStylesheet.java
 [DEBUG] copying app icon: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/assets/Resources/appicon.png
 [DEBUG] generating theme.xml
 [DEBUG] copying default splash screen
 [TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/ApplicationStylesheet.java to javac build list
 [DEBUG] adding /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/AssetCryptImpl.java to javac build list
 [DEBUG] adding /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/R.java to javac build list
 [DEBUG] adding /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorActivity.java to javac build list
 [DEBUG] adding /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorAppInfo.java to javac build list
 [DEBUG] adding /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorApplication.java to javac build list
-[DEBUG] Building Java Sources: "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/AssetCryptImpl.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/R.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorActivity.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorAppInfo.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorApplication.java"
+[DEBUG] Building Java Sources: "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/ApplicationStylesheet.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/AssetCryptImpl.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/R.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorActivity.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorAppInfo.java" "/Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/gen/com/xinchejian/door/XinchejianDoorApplication.java"
 [INFO] Compiling Android Resources... This could take some time
 [DEBUG] Android classes.dex built
 [DEBUG] creating unsigned apk: /Users/nihaopaul/Documents/Titanium_Studio_Workspace/XinCheJian Door/build/android/bin/app-unsigned.apk
